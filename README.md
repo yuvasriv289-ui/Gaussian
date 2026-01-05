@@ -23,7 +23,8 @@ RegisterNumber:
 ```
 
 ## Output:
-![gaussian elimination]()
+
+[EXP5.pdf](https://github.com/user-attachments/files/24432789/EXP5.pdf)
 
 
 ## Result:
